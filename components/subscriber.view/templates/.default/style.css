@@ -1,0 +1,54 @@
+.sv_button
+{
+  color: #fff;
+  display: inline-block;
+  border-radius: 4px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  cursor: pointer;
+  background: #EF3340;
+  background: #da1d1d url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjUwMHB4IiBoZWlnaHQ9IjUwMHB4IiB4b…AiIHk9IjAiIHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIiAvPgogPC9nPgo8L3N2Zz4KICAgIA==) top repeat-x;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#EF3340), color-stop(100%,#da1d1d));
+  background: -webkit-linear-gradient(top, #EF3340 0%,#da1d1d 100%);
+  background: -moz-linear-gradient(top, #EF3340 0%,#da1d1d 100%);
+  background: -ms-linear-gradient(top, #EF3340 0%,#da1d1d 100%);
+  background: -o-linear-gradient(top, #EF3340 0%,#da1d1d 100%);
+  background: linear-gradient(to bottom, #EF3340 0%,#da1d1d 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#EF3340', endColorstr='#da1d1d',GradientType=0 );
+  min-width: 100px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 2px 5px;
+}
+
+
+#subscribe-button{
+    color: #fff;
+}
+
+.footer-top{
+  overflow: hidden;
+  padding: 0.5rem 0;
+}
+
+.footer-lm5{
+  margin-left: 5px;
+}
+
+.footer-lm15{
+  margin-left: 15px;
+}
+
+.footer-top-pad{
+  padding-top: 1rem;
+}
+
+.footer-left-float{
+  float: left;
+}
+
+.footer-right-float{
+  float: right;
+}
